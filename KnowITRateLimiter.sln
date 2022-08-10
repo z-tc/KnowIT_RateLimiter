@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowITRateLimiter", "KnowITRateLimiter\KnowITRateLimiter.csproj", "{8E59D413-A2FC-4DC4-BDAD-F881408C7BE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowITRateLimiter.API.Test", "KnowITRateLimiter.API.Test\KnowITRateLimiter.API.Test.csproj", "{3010E7A8-4320-4923-97BA-1221A8BDA601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E59D413-A2FC-4DC4-BDAD-F881408C7BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E59D413-A2FC-4DC4-BDAD-F881408C7BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E59D413-A2FC-4DC4-BDAD-F881408C7BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E59D413-A2FC-4DC4-BDAD-F881408C7BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3010E7A8-4320-4923-97BA-1221A8BDA601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3010E7A8-4320-4923-97BA-1221A8BDA601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3010E7A8-4320-4923-97BA-1221A8BDA601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3010E7A8-4320-4923-97BA-1221A8BDA601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD93972A-D1B9-4531-ACBC-06765BC6993A}
+	EndGlobalSection
+EndGlobal
